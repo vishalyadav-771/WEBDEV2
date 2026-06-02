@@ -1,0 +1,5 @@
+body{ font-family:sans-serif; background:wheat; text-align:center; }
+.container{ margin:50px auto; width:300px; }
+input{ padding:10px; width:70%; }
+button{ padding:10px; }
+li{ list-style:none; margin:5px 0; background:#ebb96f; padding:10px; border-radius:5px; }
